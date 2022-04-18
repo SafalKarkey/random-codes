@@ -1,3 +1,4 @@
+#linear search a number from a list of random integers
 import sys
 import random
 

@@ -1,1 +1,1 @@
-#A repo to store random codes in my computer, irrespective of programming language
+#A repo to store random codes from my computer, irrespective of programming language
